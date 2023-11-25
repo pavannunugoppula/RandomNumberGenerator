@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.container {
+  display: flex;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+}
+.card-container {
+  background-color: white;
+  width: 80%;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: #0b69ff;
+  font-family: 'roboto';
+  font-weight: bold;
+}
+.button {
+  background-color: #0b69ff;
+  border-radius: 10px;
+  color: white;
+}
